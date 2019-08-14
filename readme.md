@@ -1,3 +1,3 @@
-#Living Gallery 
+# Living Gallery 
 
 Portfolio website for Living Gallery 
